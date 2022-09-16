@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "zmbutilities:block/ruby_ore"
+  }
+}

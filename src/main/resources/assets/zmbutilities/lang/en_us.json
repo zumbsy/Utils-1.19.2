@@ -1,0 +1,10 @@
+{
+  "item.zmbutilities.ruby_shard": "Ruby Shard",
+  "item.zmbutilities.ruby": "Ruby",
+
+  "block.zmbutilities.ruby_block": "Ruby Block",
+  "block.zmbutilities.ruby_ore": "Ruby Ore",
+  "block.zmbutilities.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "itemGroup.zmbutilities.utilities": "Zumbsy's Utilities"
+}

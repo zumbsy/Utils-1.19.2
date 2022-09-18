@@ -18,7 +18,6 @@ public class ModItems {
 
 
 
-
     //ITEM Constructor
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(ZmbUtilities.MOD_ID, name), item);

@@ -1,16 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "ruby",
-  "pattern": [
-    "#"
-  ],
-  "key": {
-    "#": {
-      "item": "zmbutilities:ruby"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zmbutilities:ruby_block"
     }
-  },
+  ],
   "result": {
-    "item": "zmbutility:ruby",
+    "item": "zmbutilities:ruby",
     "count": 9
   }
 }

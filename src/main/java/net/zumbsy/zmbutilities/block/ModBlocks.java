@@ -35,7 +35,6 @@ public class ModBlocks {
 
 
 
-
     //Constructor Block
     private static Block registerBlock(String name, Block block, ItemGroup tab) {
         registerBlockItem(name, block, tab);
